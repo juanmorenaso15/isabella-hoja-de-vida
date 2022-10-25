@@ -1,0 +1,66 @@
+body {
+    background-color: #eda0e4;
+    }
+    h1 {
+    text-align: center;
+    font-family: Cinzel Black;
+    font-weight: 600;
+    font-size: 30px;
+    
+    }
+    .name{
+        text-align: center;
+        font-family: Marcellus SC;
+        font-weight: 600; 
+        font-size: 40px;
+    }
+    
+    .titulo1{
+    background: #c840a8;
+    padding: 2px;
+    
+    }
+    .datos{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+    color: #a50f98;
+    }
+    .par{
+        text-align: left;
+        font-family: Marcellus SC  ;
+        font-weight: 1000;
+        font-size: 35px;
+        color: #834f7f;
+    }
+    ul{list-style: none;}
+ 
+    .nota{
+    text-align: left;
+    font-family:Marcellus SC;
+    font-weight: 1000;
+    font-size: 35px;
+    color: #a50f98;
+    }
+    .cuadro{
+        padding: 10px;
+        
+    }
+    .dios{
+        padding-top: 30px;
+    }
+    .img{
+        display: flex;
+        justify-content: right;
+        position: absolute;
+        top: 5%;
+        right: 5%;
+        width: 185px;
+        height: 185px; ;
+        border-radius: 85%;
+        transform: skewY(1.5deg) ;
+        overflow: hidden;
+    }
+
+ 
